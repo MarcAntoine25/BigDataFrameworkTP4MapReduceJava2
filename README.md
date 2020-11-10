@@ -94,7 +94,6 @@ ReducerSortTest.java
 #### Main:
 Mapper:
 MapperOldest.java
-
 Reducer:
 ReducerOldest.java
 
@@ -103,6 +102,5 @@ ReducerOldest.java
 Mappers:
 DistrictMostTreeMapper.java
 DistrictCountMapper.java
-
 Reducer:
 MostTreeReducer.java
