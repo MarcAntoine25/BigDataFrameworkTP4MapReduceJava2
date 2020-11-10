@@ -22,6 +22,7 @@ IntSumReducer.java
 #### Test:
 Mapper:
 TokenizerMapperTest.java
+
 Reducer:
 IntSumReducerTest.java
 
@@ -29,12 +30,14 @@ IntSumReducerTest.java
 #### Main:
 Mapper:
 MapperDistrict.java
+
 Reducer:
 ReducerDistrict.java
 
 #### Test:
 Mapper:
 MapperDistrictTest.java
+
 Reducer:
 ReducerDistrictTest.java
 
@@ -48,6 +51,7 @@ ReducerSpecies.java
 #### Test:
 Mapper:
 MapperSpeciesTest.java
+
 Reducer:
 ReducerSpeciesTest.java
 
@@ -55,12 +59,14 @@ ReducerSpeciesTest.java
 #### Main:
 Mapper:
 MapperNumberSpecie.java
+
 Reducer:
 ReducerNumberSpecie.java
 
 #### Test:
 Mapper:
 MapperNumberSpecieTest.java
+
 Reducer:
 ReducerNumberSpecieTest.java
 
@@ -68,12 +74,14 @@ ReducerNumberSpecieTest.java
 #### Main:
 Mapper:
 MapperMaxHeight.java
+
 Reducer:
 ReducerMaxHeight.java
 
 #### Test:
 Mapper:
 MapperMaxHeightTest.java
+
 Reducer:
 ReducerMaxHeightTest.java
 
@@ -81,12 +89,14 @@ ReducerMaxHeightTest.java
 #### Main:
 Mapper:
 MapperSortTrees.java
+
 Reducer:
 ReducerSortTrees.java
 
 #### Test:
 Mapper:
 MapperSortTest.java
+
 Reducer:
 ReducerSortTest.java
 
@@ -94,6 +104,7 @@ ReducerSortTest.java
 #### Main:
 Mapper:
 MapperOldest.java
+
 Reducer:
 ReducerOldest.java
 
@@ -102,5 +113,6 @@ ReducerOldest.java
 Mappers:
 DistrictMostTreeMapper.java
 DistrictCountMapper.java
+
 Reducer:
 MostTreeReducer.java
